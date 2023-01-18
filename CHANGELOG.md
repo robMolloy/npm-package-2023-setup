@@ -1,5 +1,11 @@
 # npm-package-2023-setup
 
+## 0.0.6
+
+### Patch Changes
+
+- 05632cc: add ecport
+
 ## 0.0.5
 
 ### Patch Changes
