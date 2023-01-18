@@ -1,4 +1,4 @@
-name: Publish
+name: create-package-version-pr-on-push-to-main
 on:
   push:
     branches:

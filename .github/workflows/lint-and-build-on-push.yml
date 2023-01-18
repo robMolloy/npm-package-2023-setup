@@ -1,4 +1,4 @@
-name: CI
+name: lint-and-build-on-push
 on:
   push:
     branches:
