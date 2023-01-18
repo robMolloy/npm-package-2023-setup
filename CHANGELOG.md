@@ -1,5 +1,11 @@
 # npm-package-2023-setup
 
+## 0.0.10
+
+### Patch Changes
+
+- a0f7342: tset15
+
 ## 0.0.9
 
 ### Patch Changes
