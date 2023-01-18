@@ -1,5 +1,12 @@
 # npm-package-2023-setup
 
+## 0.0.8
+
+### Patch Changes
+
+- 447addf: test13
+- 29dd868: test13
+
 ## 0.0.7
 
 ### Patch Changes
