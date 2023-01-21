@@ -1,5 +1,11 @@
 # npm-package-2023-setup
 
+## 0.0.11
+
+### Patch Changes
+
+- 8c79fb9: new-workflow
+
 ## 0.0.10
 
 ### Patch Changes
