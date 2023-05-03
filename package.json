@@ -12,6 +12,7 @@
   },
   "scripts": {
     "build": "tsup  index.ts --format cjs,esm --dts",
-    "lint": "tsc"
+    "lint": "tsc",
+    "change": "pnpm changeset init"
   }
 }
